@@ -1,2 +1,2 @@
-class Student < ActiveRecor::Base
+class Student < ActiveRecor:d:Base
 end
